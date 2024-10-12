@@ -1,7 +1,7 @@
 # Regulatory Document Data Extraction 
 
 > [!NOTE]
-> This project was done as part of a recruitment coding exercise.
+> This project was done as part of a recruitment coding exercise. A complete summary of my approach to completing the exercise is available in [Walkthrough.pdf](./Walkthrough.pdf)
 
 This program extracts data from two tables in a regulatory document (.pdf) by the Thai FDA, containing various conditions for manufacture, distribution and importation of specially-controlled substances (cosmetics category).
 
